@@ -1,0 +1,2 @@
+ESP rekisteri = 0061fea0
+EBP rekisteri = 0061fea0
